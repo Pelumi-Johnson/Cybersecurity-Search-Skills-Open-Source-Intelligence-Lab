@@ -1,6 +1,6 @@
 # 🕵️‍♂️ Cybersecurity Search Skills & Open-Source Intelligence Lab
 📄 **Full Lab Report (Google Doc):**  
-👉 [Click here to open the complete lab report]()
+👉 [Click here to open the complete lab report](https://github.com/Pelumi-Johnson/Cybersecurity-Search-Skills-Open-Source-Intelligence-Lab/blob/main/Name_%20Pelumi%20Johnson_TryHackMe%20Lab%20Report%203.pdf)
 
 This project documents my hands-on learning experience from the TryHackMe "Search Skills" room. The goal of this lab was to build strong cybersecurity search techniques, develop OSINT awareness, and learn how to evaluate information sources, analyze data breaches, investigate files, and use specialized cybersecurity tools.
 
