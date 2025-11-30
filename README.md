@@ -55,7 +55,7 @@ Practiced using operators such as:
 - "exact phrase"  
 - site:  
 - filetype:  
-- - (exclude words)  
+-  -(exclude words)  
 - OR logic  
 
 Example query:
