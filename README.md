@@ -8,7 +8,7 @@ This project documents my hands-on learning experience from the TryHackMe "Searc
 
 ## 📌 Project Overview
 
-Throughout this lab, I learned how to effectively search, evaluate, and investigate digital information using cybersecurity-focused tools.  
+Throughout this lab, I learned how to effectively search, evaluate, and investigate digital information using cybersecurity focused tools.  
 The lessons included:
 
 - Evaluating credibility of online sources  
@@ -135,11 +135,11 @@ Understanding this helps both offense (recon) and defense (privacy protection).
 
 ## 📚 Lessons Learned
 
-1. Be mindful of personal information posted online attackers use overshared details during recon.  
-2. Avoid posting sensitive information such as childhood schools or family details.  
-3. Use alternate emails to explore platforms safely without exposing your real accounts.  
-4. Cybersecurity learners should explore platforms, not avoid them—you learn by engaging.  
-5. Social media is a powerful OSINT tool; understand how attackers gather information.
+1. Being mindful of personal information posted online attackers use overshared details during recon.  
+2. To avoid posting sensitive information such as childhood schools or family details.  
+3. Using alternate emails to explore platforms safely without exposing your real accounts.  
+4. Cybersecurity learners should explore platforms, not avoid them, we learn by engaging.  
+5. Social media is a powerful OSINT tool; understanding how attackers gather information.
 
 ---
 
