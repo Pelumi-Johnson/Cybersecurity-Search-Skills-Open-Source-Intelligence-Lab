@@ -155,5 +155,5 @@ This project strengthened my foundation in:
 - Network documentation review  
 - Understanding attacker reconnaissance  
 
-This lab grew both my investigative mindset and defensive awareness—core skills for a future cybersecurity analyst.
+This lab grew both my investigative mindset and defensive awareness core skills for a future cybersecurity analyst.
 
